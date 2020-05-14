@@ -1,3 +1,5 @@
+Deployed at https://tristanpostley.github.io/PasswordGenerator/
+
 Function:
 
 Prompts the user for length of password (must be between 8-128 characters)
